@@ -1,0 +1,44 @@
+{
+  "name": "clippy",
+  "kind": "team",
+  "subteam_of": "devtools",
+  "members": [
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": true
+    },
+    {
+      "name": "Oliver Scherer",
+      "github": "oli-obk",
+      "github_id": 332036,
+      "is_lead": true
+    },
+    {
+      "name": "Pascal Hertleif",
+      "github": "killercup",
+      "github_id": 20063,
+      "is_lead": false
+    },
+    {
+      "name": "Andre Bogus",
+      "github": "llogiq",
+      "github_id": 4200835,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Clippy",
+    "description": "design and implementation of the Clippy linter",
+    "page": "clippy",
+    "email": null,
+    "repo": null,
+    "discord": {
+      "channel": "#clippy",
+      "url": "https://discord.gg/vNNtpyD"
+    },
+    "weight": 0
+  }
+}

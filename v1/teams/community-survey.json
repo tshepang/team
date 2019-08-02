@@ -1,0 +1,29 @@
+{
+  "name": "community-survey",
+  "kind": "team",
+  "subteam_of": "community",
+  "members": [
+    {
+      "name": "Jonathan Turner",
+      "github": "jonathandturner",
+      "github_id": 547158,
+      "is_lead": true
+    },
+    {
+      "name": "Manish Goregaokar",
+      "github": "Manishearth",
+      "github_id": 1617736,
+      "is_lead": false
+    }
+  ],
+  "github": null,
+  "website_data": {
+    "name": "Survey team",
+    "description": "Running, analysing, and presenting the community survey.",
+    "page": "community-survey",
+    "email": null,
+    "repo": null,
+    "discord": null,
+    "weight": 0
+  }
+}
